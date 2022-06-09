@@ -3,7 +3,7 @@ Project done during **Full Stack Software Engineering studies** at **ALX SE Scho
 
 ## Technologies
 * Python Scripts are written with Python 3.4.3
-* C files are compiled using `gcc 4.8.4`
+* C files are compiled using `gcc -Wall -Werror -Wextra -pedantic -std=c99 -shared -Wl,-soname,libPython.so -o libPython.so -fPIC -I/usr/include/python3.4 103-python.c`
 * Tested on Ubuntu 14.04 LTS
 
 ## Files

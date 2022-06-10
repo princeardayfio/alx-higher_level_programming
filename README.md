@@ -9,3 +9,5 @@ This repo contains all the projects for the ALX Higher Level Programming trainin
 | [0x01-python-if_else_loops_functions](0x01-python_if_else_loops_functions) | A look at if/else statements, while/for loops and interview prep |
 | [0x02-python-import_modules](0x02-python-import_modules) | A look at imported functions & modules | 
 | [0x03-python-data_strcutures](0x03-python-data_structures) | A look at data structures, lists and tuples |
+| [0x03-python-more_data_structures](0x04-python-more_data_structures) | A deeer look at data structires, lists and tuples | 
+

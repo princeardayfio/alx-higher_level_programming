@@ -2,7 +2,8 @@
 Understanding Python and how it works with different types of objects.
 
 ## Files
-| File | Description|
+
+| File | Description |
 | —--- | —--- | 
 | `0-answer.txt` | answer to a code problem | 
 | `1- answer.txt` | answer to a code problem | 
